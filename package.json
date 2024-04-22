@@ -16,7 +16,9 @@
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "react-scripts build --base=https://github.com/bjorkweenk/work",
+    "build": "react-scripts build && cp build/index.html build/404.html",
+    "build2": "react-scripts build && cp build/index.html build/404.html --base=https://github.com/bjorkweenk/work",
+
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
