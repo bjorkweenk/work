@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/www.bjorkweek.com/static/css/main.f855e6bc.css",
-    "main.js": "/www.bjorkweek.com/static/js/main.32cc424d.js",
+    "main.js": "/www.bjorkweek.com/static/js/main.2969ce77.js",
     "static/js/453.c4853882.chunk.js": "/www.bjorkweek.com/static/js/453.c4853882.chunk.js",
     "index.html": "/www.bjorkweek.com/index.html",
     "main.f855e6bc.css.map": "/www.bjorkweek.com/static/css/main.f855e6bc.css.map",
-    "main.32cc424d.js.map": "/www.bjorkweek.com/static/js/main.32cc424d.js.map",
+    "main.2969ce77.js.map": "/www.bjorkweek.com/static/js/main.2969ce77.js.map",
     "453.c4853882.chunk.js.map": "/www.bjorkweek.com/static/js/453.c4853882.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.32cc424d.js"
+    "static/js/main.2969ce77.js"
   ]
 }
