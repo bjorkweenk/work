@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/www.bjorkweenk.com/static/css/main.f855e6bc.css",
-    "main.js": "/www.bjorkweenk.com/static/js/main.07a07d29.js",
-    "static/js/453.c4853882.chunk.js": "/www.bjorkweenk.com/static/js/453.c4853882.chunk.js",
-    "index.html": "/www.bjorkweenk.com/index.html",
-    "main.f855e6bc.css.map": "/www.bjorkweenk.com/static/css/main.f855e6bc.css.map",
-    "main.07a07d29.js.map": "/www.bjorkweenk.com/static/js/main.07a07d29.js.map",
-    "453.c4853882.chunk.js.map": "/www.bjorkweenk.com/static/js/453.c4853882.chunk.js.map"
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.cf21c544.js",
+    "static/js/453.c4853882.chunk.js": "/static/js/453.c4853882.chunk.js",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.cf21c544.js.map": "/static/js/main.cf21c544.js.map",
+    "453.c4853882.chunk.js.map": "/static/js/453.c4853882.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.07a07d29.js"
+    "static/js/main.cf21c544.js"
   ]
 }
