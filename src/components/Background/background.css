@@ -4,7 +4,7 @@
     color: white ;
     position: fixed;
     text-align: center;  
-    font-size: 180px;
+    font-size: 140px;
     font-weight: 900;
     width: 50%;
     height: 100%;
@@ -25,7 +25,7 @@
     width: 50%;
     height: 100%;
     top : 48%; 
-    left : 72%; 
+    left : 68%; 
     transform: translate(-50%);
     font-family: "Poppins", sans-serif;
     font-weight:  600;
