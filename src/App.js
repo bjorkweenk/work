@@ -1,16 +1,14 @@
-import './App.css';
-
 import AppRoutes from './routes/AppRoutes';
+
+import Logo from './components/Logo/logo';
+import Navbar from './components/Navbar/Navbar';
 
 const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1> Portfolio coming soon </h1>
-      </header>
-
+      <Navbar />
       <AppRoutes />
-      
+      <Logo />
     </div>
   );
 }
